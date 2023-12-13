@@ -19,10 +19,14 @@
 
 <br />
 
-## 📺 배포 URL
+## 📺 배포 URL / Github Repository
 <a href="https://demure2023.shop" target="_blank">https://demure2023.shop</a>
 <br />
 AWS를 통해 배포했습니다.
+<br /><br />
+<a href="https://github.com/KDT9Demure/front" target="_blank">Front Repository</a>
+<br />
+<a href="https://github.com/KDT9Demure/back" target="_blank">Backend Repository</a>
 
 <br />
 
@@ -36,7 +40,7 @@ AWS를 통해 배포했습니다.
 
 <br />
 
-## 서비스 소개
+## 🗺 서비스 소개
 
 ### 메인
 ![image](https://github.com/KDT9Demure/.github/assets/105614390/08b60914-07c6-48b0-b2d1-2d4e09149b5a)
@@ -63,7 +67,7 @@ NodeMailer를 이용한 이메일 인증을 이용할 수 있습니다.
 ### 상품
 ![image](https://github.com/KDT9Demure/.github/assets/105614390/4edc43ed-9c46-40e4-b196-8daf22da6300)
 ![image](https://github.com/KDT9Demure/.github/assets/105614390/31694691-2026-4d93-b986-65320e7e7f08)
-제품에 대한 정보를 보고, 장바구니에 담을 수 있습니다.
+제품에 대한 정보를 보고, 장바구니에 담을 수 있습니다.<br />
 또한, 제품에 대한 리뷰를 남길 수 있습니다.
 
 ### 장바구니
@@ -73,7 +77,7 @@ NodeMailer를 이용한 이메일 인증을 이용할 수 있습니다.
 ### 결제
 ![image](https://github.com/KDT9Demure/.github/assets/105614390/9f114266-615c-4889-925d-f53a2cc7a13a)
 ![image](https://github.com/KDT9Demure/.github/assets/105614390/0c00462d-de81-432f-8e4b-8ecfb91204f7)
-다음 지도 API를 이용해 배송지를 쉽게 입력할 수 있습니다.
+다음 지도 API를 이용해 배송지를 쉽게 입력할 수 있습니다.<br />
 쿠폰을 적용해 할인된 가격으로 구매할 수 있습니다.
 
 ### 주문내역확인
@@ -96,7 +100,7 @@ NodeMailer를 이용한 이메일 인증을 이용할 수 있습니다.
 ### QnA / 공지사항
 ![image](https://github.com/KDT9Demure/.github/assets/105614390/3f406320-f203-41e7-8b34-053ee81a9361)
 ![image](https://github.com/KDT9Demure/.github/assets/105614390/601f6fd7-40fa-4767-addb-aac1d498db3a)
-챗봇으로 해결되지 않는 궁금증을 물어볼 수 있습니다.
+챗봇으로 해결되지 않는 궁금증을 물어볼 수 있습니다.<br />
 공지사항을 확인합니다.
 
 
